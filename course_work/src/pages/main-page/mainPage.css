@@ -1,0 +1,28 @@
+.container
+{
+display: flex;
+justify-content: center;
+}
+
+.doubly-linked-list-ref {
+    padding: 4%;
+    width: 20vw;
+    height: 20vw;
+    background-color: #11b8d9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.7rem;
+    text-decoration: none;
+}
+
+.algo-rect {
+    padding: 4%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 2vh;
+}
+
+
+
