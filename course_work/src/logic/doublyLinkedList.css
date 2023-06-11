@@ -1,0 +1,65 @@
+main {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-items: baseline;
+}
+
+
+.sections-btn {
+    width: 6vw;
+    height: 4vh;
+    margin-left: 1%;
+    margin-top: 5%;
+    background-color: #11b8d9;
+    border-radius: 20px;
+}
+
+.add {
+    margin-left: 8%;
+}
+
+.search {
+    margin-left: 50%;
+    padding-top: 5%;
+}
+
+
+.delete {
+    margin-left: 40%;
+    padding-top: 5%;
+}
+
+.input-value-box {
+    width: 8vw;
+    height: 3.5vh;
+
+}
+
+.canvas {
+    display: block;
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+    /*margin: 0;*/
+    padding: 0;
+    border: 1px black;
+}
+
+.sections {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.msg {
+    padding: 10px;
+    position: fixed;
+    margin-left: 35%;
+    bottom: 30%;
+    background-color: #11b8d9;
+    border-color: #11b8d9;
+    border-style: solid;
+    font-size: 14px;
+    display: none;
+}
